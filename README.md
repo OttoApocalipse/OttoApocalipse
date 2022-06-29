@@ -14,7 +14,4 @@
   ![Snake animation](https://github.com/OttoApocalipse/OttoApocalipse/blob/output/github-contribution-grid-snake.svg)
   
   <img align="center" height="200" width="300" src="https://i.pinimg.com/564x/7f/76/d8/7f76d808b480be33189171b711a713d1.jpg" >
-  
-  
-  
 </div>
